@@ -1,0 +1,13 @@
+How does Java's garbage collection mechanism manage with the frequent creation and disposal of objects?
+
+How does Java handle method overriding, and what are the common problems?
+
+In the Transporter class, we maintain temperature range, what are the best practices in Java for managing state effectively, especially in multi-threaded environments?
+
+How have recent updates in Java (like new versions of the JDK) affected best practices in object-oriented design and development?
+
+How does Java's implementation of abstraction help in modeling real-world scenarios and what are the limitations?
+
+How does dependency management with tools like Maven affect the build process?
+
+What are the challenges and best practices in scaling Java applications?
